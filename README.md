@@ -1,4 +1,4 @@
-### ![LinkedIn.com](https://www.linkedin.com/in/zeynep-bacaksiz-463a7b228/)  👋
+### [LinkedIn.com](https://www.linkedin.com/in/zeynep-bacaksiz-463a7b228/)  👋
 
 
 <!--
