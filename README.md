@@ -1,4 +1,5 @@
-### Hi there 👋
+### ![LinkedIn.com](https://www.linkedin.com/in/zeynep-bacaks%C4%B1z-463a7b228/)  👋
+
 
 <!--
 **zeynepbacaksiiz/zeynepbacaksiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
