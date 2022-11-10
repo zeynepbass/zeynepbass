@@ -6,8 +6,14 @@
 
 <div class="container">
   <div class="row">
-  <img src="a.webp" width="auto">
-    
+  <img src="a.webp" width="50px" height="50px">
+     <img src="b.png" width="50px" height="50px">
+      <img src="c.png" width="50px" height="50px">
+         <img src="d.jpeg" width="50px" height="50px">
+      <img src="e.svg" width="50px" height="50px">
+      <img src="f.svg" width="50px" height="50px">
+      <img src="g.png" width="50px" height="50px">
+      <img src="k.webp" width="50px" height="50px">
   </div>
      </div>
 
