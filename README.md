@@ -19,4 +19,4 @@
        <img src="b.png" width="%14.28" height="50px">
   </div>
 </div>
-
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
