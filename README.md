@@ -1,4 +1,4 @@
-### [LinkedIn.com](https://www.linkedin.com/in/zeynep-bacaksiz-463a7b228/)  ✨
+
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=zeynepbacaksiiz&show_icons=true&theme=radical)
@@ -17,10 +17,7 @@
        <img src="b.png" width="%14.28" height="50px">
   </div>
 </div>
-### Contact:
 
-   [LinkedIn.com](https://www.linkedin.com/in/zeynep-bacaksiz-463a7b228/)  ✨
-<!--
 **zeynepbacaksiiz/zeynepbacaksiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
