@@ -1,6 +1,6 @@
 ### [LinkedIn.com](https://www.linkedin.com/in/zeynep-bacaksiz-463a7b228/)  ✨
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=zeynepbacaksiiz&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=zeynepbacaksiiz&show_icons=true&theme=radical)
+
 
 
 
