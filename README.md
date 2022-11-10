@@ -23,7 +23,7 @@
 <div class="container-fluid">
   <div class="row">
     <h1 style="color:red">Contact:</h1>
-    [<img align="left" alt="linkedin | LinkedIn" width="120px" height="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />]
+    [<img align="left" alt="linkedin | LinkedIn" width="200px" height="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />]
   </div>
 </div>
 
