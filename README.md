@@ -6,7 +6,7 @@
 
 <div class="container">
   <div class="row">
-  <img src="images/a.webp" width="auto">
+  <img src="a.webp" width="auto">
     
   </div>
      </div>
