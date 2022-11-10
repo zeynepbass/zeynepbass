@@ -6,10 +6,8 @@
 
 <div class="container">
   <div class="row">
-  <img src="[gorsel-link](https://k2bindia.com/wp-content/uploads/2015/08/React.png)" width="auto">
-    <img src="gorsel-link" width="auto">
-    <img src="gorsel-link" width="auto">
-    <img src="gorsel-link" width="auto">
+  <img src="" width="auto">
+    
   </div>
      </div>
 
