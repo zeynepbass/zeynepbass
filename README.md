@@ -19,4 +19,11 @@
        <img src="b.png" width="%14.28" height="50px">
   </div>
 </div>
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+
+<div class="container-fluid">
+  <div class="row">
+    <h1 style="color:red">Contact:</h1>
+    [<img align="left" alt="linkedin | LinkedIn" width="120px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+  </div>
+</div>
+
