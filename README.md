@@ -19,8 +19,9 @@
 </div>
 <div class="container-fluid">
     <h1 >Contact:</h1>
-   [LinkedIn.com](https://www.linkedin.com/in/zeynep-bacaksiz-463a7b228/)  ✨
+
 </div>
+   [LinkedIn.com](https://www.linkedin.com/in/zeynep-bacaksiz-463a7b228/)  ✨
 <!--
 **zeynepbacaksiiz/zeynepbacaksiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
