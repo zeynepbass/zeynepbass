@@ -17,6 +17,13 @@
        <img src="b.png" width="%14.28" height="50px">
   </div>
 </div>
+<div class="container-fluid">
+  <div class="row">
+    <h1 style="color:red">Contact:</h1>
+### [LinkedIn.com](https://www.linkedin.com/in/zeynep-bacaksiz-463a7b228/)  ✨
+    ### [zeynepbacaksiz.com](https://www.zeynepbacaksiz.com/)  ✨
+  </div>
+</div>
 <!--
 **zeynepbacaksiiz/zeynepbacaksiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
