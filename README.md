@@ -20,8 +20,8 @@
 <div class="container-fluid">
   <div class="row">
     <h1 style="color:red">Contact:</h1>
-      ### [LinkedIn.com](https://www.linkedin.com/in/zeynep-bacaksiz-463a7b228/)  ✨
-    ### [zeynepbacaksiz.com](https://www.zeynepbacaksiz.com/)  
+   [LinkedIn.com](https://www.linkedin.com/in/zeynep-bacaksiz-463a7b228/)  ✨<br>
+   [zeynepbacaksiz.com](https://www.zeynepbacaksiz.com/)  
   </div>
 </div>
 <!--
