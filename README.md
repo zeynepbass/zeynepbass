@@ -7,12 +7,11 @@
 <div class="container-fluid">
   <div class="row">
     <img src="k.webp" width="%14.28" height="50px">
-    
       <img src="g.png" width="%14.28" height="50px">
          <img src="c.png" width="%14.28" height="50px">
-  <img src="a.webp" width="%14.28" height="50px">
+       <img src="a.webp" width="%14.28" height="50px">
          <img src="e.svg" width="%14.28" height="50px">
-      <img src="f.svg" width="%14.28" height="50px">
+           <img src="f.svg" width="%14.28" height="50px">
  
          <img src="d.jpeg" width="%14.28" height="50px">
  
