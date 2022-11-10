@@ -4,7 +4,14 @@
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=zeynepbacaksiiz&show_icons=true&theme=radical)
 
 
-
+<div class="container">
+  <div class="row">
+  <img src="[gorsel-link](https://k2bindia.com/wp-content/uploads/2015/08/React.png)" width="auto">
+    <img src="gorsel-link" width="auto">
+    <img src="gorsel-link" width="auto">
+    <img src="gorsel-link" width="auto">
+  </div>
+     </div>
 
 <!--
 **zeynepbacaksiiz/zeynepbacaksiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
