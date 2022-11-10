@@ -17,7 +17,7 @@
        <img src="b.png" width="%14.28" height="50px">
   </div>
 </div>
-
+-->
 **zeynepbacaksiiz/zeynepbacaksiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
