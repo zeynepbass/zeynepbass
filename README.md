@@ -1,4 +1,4 @@
-<div class="container-fluid" style="background-color:red">### [LinkedIn.com](https://www.linkedin.com/in/zeynep-bacaksiz-463a7b228/)  ✨
+### [LinkedIn.com](https://www.linkedin.com/in/zeynep-bacaksiz-463a7b228/)  ✨
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=zeynepbacaksiiz&show_icons=true&theme=radical)
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
+
