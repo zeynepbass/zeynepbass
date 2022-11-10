@@ -7,7 +7,6 @@
 <div class="container-fluid">
   <div class="row">
     <h1 style="color:red">Skills:</h1>
-
     <img src="k.webp" width="%14.28" height="50px">
       <img src="g.png" width="%14.28" height="50px">
          <img src="c.png" width="%14.28" height="50px">
