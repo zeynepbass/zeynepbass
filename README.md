@@ -17,6 +17,8 @@
            <img src="f.svg" width="%14.28" height="50px">
          <img src="d.jpeg" width="%14.28" height="50px">
        <img src="b.png" width="%14.28" height="50px">
+   
+<img src="http://url/to/img.png" alt="alt text" width="320" height="180">
   </div>
 </div>
 
