@@ -18,6 +18,7 @@
          <img src="d.jpeg" width="%14.28" height="50px">
        <img src="b.png" width="%14.28" height="50px">
    <img src="nodejs.png" width="%14.28" height="50px">
+          <img src="react-native.png" width="%14.28" height="50px">
 
   </div>
 </div>
