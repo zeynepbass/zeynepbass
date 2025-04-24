@@ -5,7 +5,6 @@
 
 
 
- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=zeynepbacaksiiz&show_icons=true&theme=radical)
 <div class="container-fluid">
   <div class="row">
     <h1 style="color:red">Skills:</h1>
