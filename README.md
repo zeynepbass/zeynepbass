@@ -1,7 +1,7 @@
 
 
 
-# Merhaba!![hello](https://github.com/user-attachments/assets/6d306284-ef14-4acc-bf3b-4c7d8717bc5e)
+# Merhaba! <img src="![hello](https://github.com/user-attachments/assets/6d306284-ef14-4acc-bf3b-4c7d8717bc5e)" width="40" height="40"/>
 
 
 Ben Zeynep, **Yazılım Geliştiricisiyim**.
