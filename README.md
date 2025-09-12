@@ -11,8 +11,8 @@ Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dö
 ---
 
 ## 🛠 Teknoloji ve Araçlar
-- **Frontend:** React, TypeScript, Tailwind CSS, Redux, Context API  
-- **Backend:** Node.js, Express, MongoDB, MySQL  
+- **Frontend:** React, TypeScript, Next14, Tailwind CSS, Zustand, Context API  
+- **Backend:** Node.js, Express, MongoDB  
 - **Tasarım:** Figma, UI/UX prototip tasarımı  
 - **Araçlar:** Git, GitHub, VS Code, Postman  
 
@@ -20,7 +20,7 @@ Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dö
 
 ## 🎯 İlgi Alanlarım
 - Kodlama ve yazılım geliştirme  
-- Figma ile hızlı prototip tasarımı Reactta geliştirmek
+- Figma ile prototipi React'ta geliştirmek
 
 
 
