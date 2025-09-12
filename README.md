@@ -1,7 +1,8 @@
 
 
 
-# Merhaba! <img src="hello.gif" width="50" height="50"/>
+# Merhaba!![hello](https://github.com/user-attachments/assets/6d306284-ef14-4acc-bf3b-4c7d8717bc5e)
+
 
 Ben Zeynep, **Yazılım Geliştiricisiyim**.
 
