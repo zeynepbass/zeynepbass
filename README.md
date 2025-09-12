@@ -29,7 +29,7 @@ Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dö
 <div class="container-fluid">
   <div class="row">
     <h1 style="color:red">Skills:</h1>
-    <img width="%14.28" height="50px" alt="tailwindcss-logo" src="https://github.com/user-attachments/assets/c873eb0a-4604-44a4-8057-2eea1771d38b" />
+    <img width="%14.28" height="50px" src="https://github.com/user-attachments/assets/c873eb0a-4604-44a4-8057-2eea1771d38b" />
 
     <img src="k.webp" width="%14.28" height="50px">
       <img src="g.png" width="%14.28" height="50px">
