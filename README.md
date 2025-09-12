@@ -1,7 +1,7 @@
 
 
 
-# Merhaba! 👋 Ben Miraya
+# Merhaba! <img src="hello.gif" width="50" height="50"/>
 
 Ben Zeynep, **Yazılım Geliştiricisiyim**.
 
