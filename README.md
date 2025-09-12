@@ -22,7 +22,7 @@ Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dö
 - Kodlama ve yazılım geliştirme  
 - Figma ile prototipi React'ta geliştirmek
 
-
+---
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
 
