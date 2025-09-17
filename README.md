@@ -2,14 +2,12 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#F3C649&height=120&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F3C649&height=130&animation=fadeIn&fontAlignY=35" />
 </p>
 
 # Merhaba! <img src="https://github.com/user-attachments/assets/6d306284-ef14-4acc-bf3b-4c7d8717bc5e" width="40" height="40" />
 
-
 Ben Zeynep, **Yazılım Geliştiricisiyim**.
-
 
 Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dönüştürmeyi seviyorum.  
 
@@ -36,6 +34,6 @@ Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dö
 💡<b> Not:</b> Sürekli olarak yeni projeler geliştiriyor ve GitHub hesabımda paylaşıyorum. Göz atmayı unutma! 🚀
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F3C649&height=120&section=footer&reversal=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F3C649&height=130&section=footer&reversal=true" />
 </p>
 
