@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7F50,FFB347,FF69B4,8A2BE2&height=200&section=header&text=Zeynep%20Baş&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7F50&height=120&animation=fadeIn&fontAlignY=35" />
 </p>
 
 # Merhaba! <img src="https://github.com/user-attachments/assets/6d306284-ef14-4acc-bf3b-4c7d8717bc5e" width="40" height="40" />
@@ -35,10 +35,6 @@ Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dö
 
 💡<b> Not:</b> Sürekli olarak yeni projeler geliştiriyor ve GitHub hesabımda paylaşıyorum. Göz atmayı unutma! 🚀
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7F50&height=200&section=footer" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Zeynep%20Bacaksız-8A2BE2?style=for-the-badge&logo=starship&logoColor=FFB347&labelColor=FF69B4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7F50&height=120&section=footer" />
 </p>
 
