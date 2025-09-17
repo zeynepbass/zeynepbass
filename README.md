@@ -39,11 +39,6 @@ Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dö
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynepbacaksiz&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=78,36,77&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepbacaksiz&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=78,36,77&hide_border=true" height="160" />
-</p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=78,36,77&height=120&section=footer" />
