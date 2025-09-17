@@ -31,7 +31,7 @@ Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dö
   <img src="b.png" alt="B" width="60" height="60" />
 
   <img src="d.jpeg" alt="D" width="60" height="60" />
-
+  <img src="e.svg" alt="F" width="60" height="60" />
   <img src="f.svg" alt="F" width="60" height="60" />
   <img src="g.png" alt="G" width="60" height="60" />
   <img src="k.webp" alt="K" width="60" height="60" />
