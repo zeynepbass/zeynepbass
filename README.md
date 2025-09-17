@@ -6,7 +6,6 @@
 
 Ben Zeynep, **Yazılım Geliştiricisiyim**.
 
-<img src="https://github.com/user-attachments/assets/6d306284-ef14-4acc-bf3b-4c7d8717bc5e" width="60" height="60" align="right" />
 
 Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dönüştürmeyi seviyorum.  
 
