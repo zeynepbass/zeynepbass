@@ -29,7 +29,7 @@ Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dö
 
     <img src="postman.png" alt="A" width="60" height="60" />
   <img src="b.png" alt="B" width="60" height="60" />
-
+  <img src="c.png" alt="B" width="60" height="60" />
   <img src="d.jpeg" alt="D" width="60" height="60" />
   <img src="e.svg" alt="F" width="60" height="60" />
   <img src="f.svg" alt="F" width="60" height="60" />
