@@ -33,7 +33,7 @@ Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dö
 
 ---
 
-💡 Not: Sürekli olarak yeni projeler geliştiriyor ve GitHub hesabımda paylaşıyorum. Göz atmayı unutma! 🚀
+💡<b> Not:</b> Sürekli olarak yeni projeler geliştiriyor ve GitHub hesabımda paylaşıyorum. Göz atmayı unutma! 🚀
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7F50,FFB347,FF69B4,8A2BE2&height=120&section=footer" />
