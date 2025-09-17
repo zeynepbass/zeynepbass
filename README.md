@@ -27,14 +27,14 @@ Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dö
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
 
 
-    <img src="postman.png" alt="A" width="60" height="60" />
-  <img src="b.png" alt="B" width="60" height="60" />
-  <img src="c.png" alt="B" width="60" height="60" />
-  <img src="d.jpeg" alt="D" width="60" height="60" />
-  <img src="e.svg" alt="F" width="60" height="60" />
-  <img src="f.svg" alt="F" width="60" height="60" />
-  <img src="g.png" alt="G" width="60" height="60" />
-  <img src="k.webp" alt="K" width="60" height="60" />
+
+ 
+  <img src="bootstap.png" alt="B" width="60" height="60" />
+      <img src="postman.png" alt="A" width="60" height="60" />
+  <img src="react.svg" alt="F" width="60" height="60" />
+  <img src="ts.svg" alt="F" width="60" height="60" />
+  <img src="css.png" alt="G" width="60" height="60" />
+  <img src="html.webp" alt="K" width="60" height="60" />
   <img src="next.png" alt="Next.js" width="60" height="60" />
   <img src="nodejs.png" alt="Node.js" width="60" height="60" />
   <img src="react-native.png" alt="React Native" width="60" height="60" />
