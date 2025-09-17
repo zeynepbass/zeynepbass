@@ -34,7 +34,11 @@ Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dö
 ---
 
 💡<b> Not:</b> Sürekli olarak yeni projeler geliştiriyor ve GitHub hesabımda paylaşıyorum. Göz atmayı unutma! 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7F50&height=200&section=footer" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Zeynep%20Bacaksız-8A2BE2?style=for-the-badge&logo=starship&logoColor=FFB347&labelColor=FF69B4" />
 </p>
+
