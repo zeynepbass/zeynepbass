@@ -26,12 +26,12 @@ Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dö
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
 
-  <img src="a.webp" alt="A" width="60" height="60" />
+
     <img src="postman.png" alt="A" width="60" height="60" />
   <img src="b.png" alt="B" width="60" height="60" />
-  <img src="c.png" alt="C" width="60" height="60" />
+
   <img src="d.jpeg" alt="D" width="60" height="60" />
-  <img src="e.svg" alt="E" width="60" height="60" />
+
   <img src="f.svg" alt="F" width="60" height="60" />
   <img src="g.png" alt="G" width="60" height="60" />
   <img src="k.webp" alt="K" width="60" height="60" />
