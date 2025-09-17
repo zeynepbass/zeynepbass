@@ -28,17 +28,23 @@ Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dö
 
 
 
- 
-  <img src="bootstap.png" alt="B" width="60" height="60" />
-      <img src="postman.png" alt="A" width="60" height="60" />
-  <img src="react.svg" alt="F" width="60" height="60" />
-  <img src="ts.svg" alt="F" width="60" height="60" />
-  <img src="css.png" alt="G" width="60" height="60" />
+
   <img src="html.webp" alt="K" width="60" height="60" />
+     <img src="css.png" alt="G" width="60" height="60" />
+  <img src="bootstap.png" alt="B" width="60" height="60" />
+
+
+
+ <img src="postman.png" alt="postman" width="120" height="60" />
+  <img src="react.svg" alt="react.js" width="60" height="60" />
   <img src="next.png" alt="Next.js" width="60" height="60" />
+      <img src="npm.png" alt="npm" width="60" height="60" />
+        <img src="tailwindcss-logo.png" alt="Tailwind CSS" width="60" height="60" />
+    <img src="mongodb.png" alt="mongoDB" width="60" height="60" />
   <img src="nodejs.png" alt="Node.js" width="60" height="60" />
-  <img src="react-native.png" alt="React Native" width="60" height="60" />
-  <img src="tailwindcss-logo.png" alt="Tailwind CSS" width="60" height="60" />
+    <img src="ts.svg" alt="TypeScript" width="60" height="60" />
+  <img src="react-native.png" alt="ReactNative" width="60" height="60" />
+
 
 </div>
 
