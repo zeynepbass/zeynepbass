@@ -1,5 +1,4 @@
-
-![Visitors](https://shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/zeynepbass/profile)
+![Profile Views](https://komarev.com/ghpvc/?username=zeynepbass&color=purple)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=513B3F&height=130&animation=fadeIn&fontAlignY=35" />
