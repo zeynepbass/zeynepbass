@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=zeynepbass&color=purple)
+![Profile Views](https://komarev.com/ghpvc/?username=zeynepbass&color=pink)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=513B3F&height=130&animation=fadeIn&fontAlignY=35" />
