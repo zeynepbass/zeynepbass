@@ -39,7 +39,7 @@ Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dö
   <img src="nodejs.png" alt="Node.js" width="60" height="60" />
   <img src="ts.svg" alt="TypeScript" width="60" height="60" />
   <img src="react-native.png" alt="React Native" width="60" height="60" />
-  <img src="swagger.png" alt="Swagger" width="60" height="60" />
+
   <img src="docker.png" alt="Docker" width="60" height="60" />
 </div>
 
