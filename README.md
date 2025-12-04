@@ -49,6 +49,6 @@ Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dö
 💡<b> Not:</b> Sürekli olarak yeni projeler geliştiriyor ve GitHub hesabımda paylaşıyorum. Göz atmayı unutma! 🚀
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=513B3F&height=130&section=footer&reversal=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=130&section=footer&reversal=true" />
 </p>
 
