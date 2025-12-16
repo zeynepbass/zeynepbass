@@ -1,18 +1,30 @@
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/tttyCscPfpb9EYVwHb/giphy.gif" width="100%" alt="Snow Storm"/>
+  <img 
+    src="https://media.giphy.com/media/tttyCscPfpb9EYVwHb/giphy.gif"
+    width="100%"
+    height="520"
+    alt="Snow Storm"
+  />
 </p>
 
+<h1 align="center">Ho Ho Ho! 🎄✨</h1>
 
-# Ho Ho Ho! 🎄✨ 
-<img src="https://github.com/user-attachments/assets/6d306284-ef14-4acc-bf3b-4c7d8717bc5e" width="40" height="40" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d306284-ef14-4acc-bf3b-4c7d8717bc5e" width="40" height="40" />
+</p>
 
-Merhaba! Ben **Zeynep**,  
-**Yazılım Geliştiricisiyim** 👩‍💻❄️
+<p align="center">
+  Merhaba! Ben <b>Zeynep</b>, <br/>
+  <b>Yazılım Geliştiricisiyim</b> 👩‍💻❄️
+</p>
 
-Kod ve tasarımı birleştirerek fikirleri  
-**hızlı, modern ve kullanıcı dostu arayüzlere** dönüştürmeyi seviyorum.  
-Yeni yıl ruhuyla ✨ üretmeye devam ediyorum!
+<p align="center">
+  Kod ve tasarımı birleştirerek fikirleri <br/>
+  <b>hızlı, modern ve kullanıcı dostu arayüzlere</b> dönüştürmeyi seviyorum. <br/>
+  Yeni yıl ruhuyla ✨ üretmeye devam ediyorum!
+</p>
 
 ---
 
@@ -28,30 +40,4 @@ Yeni yıl ruhuyla ✨ üretmeye devam ediyorum!
 - Yazılım geliştirme & temiz kod  
 - Figma tasarımlarını birebir React bileşenlerine dönüştürmek  
 - Performanslı ve ölçeklenebilir arayüzler
-
----
-
-<div align="center">
-
-  <img src="html.webp" width="60" height="60" />
-  <img src="css.png" width="60" height="60" />
-  <img src="bootstap.png" width="60" height="60" />
-  <img src="postman.png" width="120" height="60" />
-  <img src="react.svg" width="60" height="60" />
-  <img src="next.png" width="60" height="60" />
-  <img src="npm.png" width="60" height="60" />
-  <img src="tailwindcss-logo.png" width="60" height="60" />
-  <img src="mongodb.png" width="60" height="60" />
-  <img src="nodejs.png" width="60" height="60" />
-  <img src="ts.svg" width="60" height="60" />
-  <img src="react-native.png" width="60" height="60" />
-  <img src="docker.png" width="60" height="60" />
-
-</div>
-
----
-
-🎄 **Not:**  
-Yeni yılda da aktif olarak projeler geliştiriyor ve GitHub’da paylaşıyorum.  
-Bir kahve al ☕, projelere göz at! 🚀❄️
 
