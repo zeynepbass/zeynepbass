@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[https://giphy.com/gifs/christmas-snow-winter-FoVi0LDjy1XS8](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGoyZW9vcHBqZ2oycXNhemQ0OTM2MXpzOXl6dDk5YWJybzl0ZHBwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVi0LDjy1XS8/giphy.gif)" width="100%" alt="Snow Storm"/>
+  <img src="https://media.giphy.com/media/FoVi0LDjy1XS8/giphy.gif" width="100%" alt="Snow Storm"/>
 </p>
 
 
