@@ -1,54 +1,64 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=red&height=130&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=130&animation=fadeIn&fontAlignY=35" />
 </p>
 
-# Merhaba! <img src="https://github.com/user-attachments/assets/6d306284-ef14-4acc-bf3b-4c7d8717bc5e" width="40" height="40" />
+<!-- ❄️ KAR YAĞIŞI -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" alt="Snow Falling"/>
+</p>
 
-Ben Zeynep, **Yazılım Geliştiricisiyim**.
+# Ho Ho Ho! 🎄✨ 
+<img src="https://github.com/user-attachments/assets/6d306284-ef14-4acc-bf3b-4c7d8717bc5e" width="40" height="40" />
 
-Kod ve tasarımı birleştirerek fikirleri **hızlı ve etkili arayüzlere** dönüştürmeyi seviyorum.  
+Merhaba! Ben **Zeynep**,  
+**Yazılım Geliştiricisiyim** 👩‍💻❄️
+
+Kod ve tasarımı birleştirerek fikirleri  
+**hızlı, modern ve kullanıcı dostu arayüzlere** dönüştürmeyi seviyorum.  
+Yeni yıl ruhuyla ✨ üretmeye devam ediyorum!
 
 ---
 
-## 🛠 Teknoloji ve Araçlar
-- **Frontend:** React, TypeScript, Next14, Tailwind CSS, Zustand, Context API  
+## 🎁 Teknolojiler & Araçlar
+- **Frontend:** React, TypeScript, Next.js 14, Tailwind CSS, Zustand, Context API  
 - **Backend:** Node.js, Express, MongoDB  
-- **Tasarım:** Figma, UI/UX prototip tasarımı  
+- **Tasarım:** Figma, UI/UX Prototipleme  
 - **Araçlar:** Git, GitHub, VS Code, Postman  
 
 ---
 
-## 🎯 İlgi Alanlarım
-- Kodlama ve yazılım geliştirme  
-- Figma ile prototipi React'ta geliştirmek
+## ❄️ İlgi Alanlarım
+- Yazılım geliştirme & temiz kod  
+- Figma tasarımlarını birebir React bileşenlerine dönüştürmek  
+- Performanslı ve ölçeklenebilir arayüzler
 
 ---
 
 <div align="center">
 
-  <img src="html.webp" alt="HTML" width="60" height="60" />
-  <img src="css.png" alt="CSS" width="60" height="60" />
-  <img src="bootstap.png" alt="Bootstrap" width="60" height="60" />
-  <img src="postman.png" alt="Postman" width="120" height="60" />
-  <img src="react.svg" alt="React.js" width="60" height="60" />
-  <img src="next.png" alt="Next.js" width="60" height="60" />
-  <img src="npm.png" alt="npm" width="60" height="60" />
-  <img src="tailwindcss-logo.png" alt="Tailwind CSS" width="60" height="60" />
-  <img src="mongodb.png" alt="MongoDB" width="60" height="60" />
-  <img src="nodejs.png" alt="Node.js" width="60" height="60" />
-  <img src="ts.svg" alt="TypeScript" width="60" height="60" />
-  <img src="react-native.png" alt="React Native" width="60" height="60" />
+  <img src="html.webp" width="60" height="60" />
+  <img src="css.png" width="60" height="60" />
+  <img src="bootstap.png" width="60" height="60" />
+  <img src="postman.png" width="120" height="60" />
+  <img src="react.svg" width="60" height="60" />
+  <img src="next.png" width="60" height="60" />
+  <img src="npm.png" width="60" height="60" />
+  <img src="tailwindcss-logo.png" width="60" height="60" />
+  <img src="mongodb.png" width="60" height="60" />
+  <img src="nodejs.png" width="60" height="60" />
+  <img src="ts.svg" width="60" height="60" />
+  <img src="react-native.png" width="60" height="60" />
+  <img src="docker.png" width="60" height="60" />
 
-  <img src="docker.png" alt="Docker" width="60" height="60" />
 </div>
-
 
 ---
 
-💡<b> Not:</b> Sürekli olarak yeni projeler geliştiriyor ve GitHub hesabımda paylaşıyorum. Göz atmayı unutma! 🚀
+🎄 **Not:**  
+Yeni yılda da aktif olarak projeler geliştiriyor ve GitHub’da paylaşıyorum.  
+Bir kahve al ☕, projelere göz at! 🚀❄️
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=red&height=130&section=footer&reversal=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=130&section=footer&reversal=true" />
 </p>
 
