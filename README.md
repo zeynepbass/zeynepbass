@@ -19,7 +19,6 @@ Yeni yıl ruhuyla ✨ üretmeye devam ediyorum!
 
 ## 🎁 Teknolojiler & Araçlar
 - **Frontend:** React, TypeScript, Next.js, Tailwind CSS, Shadcn, Zustand, Context API  
-- **Backend:** Node.js, Express, MongoDB  
 - **Tasarım:** Figma, UI/UX Prototipleme
 - **Araçlar:** Git, GitHub, VS Code, Postman  
 
