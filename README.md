@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/FoVi0LDjy1XS8/giphy.gif" width="100%" alt="Snow Storm"/>
+  <img src="https://media.giphy.com/media/tttyCscPfpb9EYVwHb/giphy.gif" width="100%" alt="Snow Storm"/>
 </p>
 
 
