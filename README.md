@@ -1,8 +1,8 @@
 
-<!-- ❄️ KAR YAĞIŞI -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" alt="Snow Falling"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" alt="Snow Storm"/>
 </p>
+
 
 # Ho Ho Ho! 🎄✨ 
 <img src="https://github.com/user-attachments/assets/6d306284-ef14-4acc-bf3b-4c7d8717bc5e" width="40" height="40" />
