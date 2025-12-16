@@ -36,16 +36,16 @@ Yeni yıl ruhuyla ✨ üretmeye devam ediyorum!
   <img src="html.webp" width="60" height="60" />
   <img src="css.png" width="60" height="60" />
   <img src="bootstap.png" width="60" height="60" />
-  <img src="postman.png" width="120" height="60" />
+    <img src="react-native.png" width="60" height="60" />
   <img src="react.svg" width="60" height="60" />
+    <img src="ts.svg" width="60" height="60" />
   <img src="next.png" width="60" height="60" />
-  <img src="npm.png" width="60" height="60" />
   <img src="tailwindcss-logo.png" width="60" height="60" />
-  <img src="mongodb.png" width="60" height="60" />
-  <img src="nodejs.png" width="60" height="60" />
-  <img src="ts.svg" width="60" height="60" />
-  <img src="react-native.png" width="60" height="60" />
-  <img src="docker.png" width="60" height="60" />
+    <img src="shadcn.png" width="60" height="60" />
+    <img src="postman.png" width="120" height="60" />
+    <img src="docker.png" width="60" height="60" />
+      <img src="npm.png" width="60" height="60" />
+
 
 </div>
 
