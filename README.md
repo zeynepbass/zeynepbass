@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=130&animation=fadeIn&fontAlignY=35" />
-</p>
+
 
 <!-- ❄️ KAR YAĞIŞI -->
 <p align="center">
@@ -58,6 +56,4 @@ Yeni yıl ruhuyla ✨ üretmeye devam ediyorum!
 Yeni yılda da aktif olarak projeler geliştiriyor ve GitHub’da paylaşıyorum.  
 Bir kahve al ☕, projelere göz at! 🚀❄️
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=130&section=footer&reversal=true" />
-</p>
+
