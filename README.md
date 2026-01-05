@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" alt="Snow Falling"/>
 </p>
 
-<h1 align="center">Ho Ho Ho! 🎄✨</h1>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6d306284-ef14-4acc-bf3b-4c7d8717bc5e" width="50" height="50" />
@@ -53,7 +53,7 @@ Yeni yıl ruhuyla ✨ üretmeye, öğrenmeye ve paylaşmaya devam ediyorum.
 
 ## ❄️ İlgi Alanlarım
 
-- 🧼 Clean Code & SOLID prensipleri  
+- 🧼 Clean Code
 - 🧠 Frontend Architecture (Service / Hook / UI ayrımı)  
 - 🎯 Figma tasarımlarını birebir React bileşenlerine dönüştürmek  
 - ⚡ Performans, erişilebilirlik ve SEO dostu arayüzler  
@@ -89,10 +89,6 @@ Yeni yıl ruhuyla ✨ üretmeye, öğrenmeye ve paylaşmaya devam ediyorum.
 ---
 
 ## ☕ Bir Kahve Al, Projelere Bak!
-
-🎄  
-Yeni yılda da aktif olarak projeler geliştiriyor  
-ve GitHub’da düzenli olarak paylaşıyorum.
 
 ☕ Kahveni al, repoları incele —  
 belki birlikte bir şeyler üretiriz 🚀❄️
