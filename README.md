@@ -1,4 +1,4 @@
-<!-- ❄️ KAR YAĞIŞI -->
+
 <p align="center">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" alt="Snow Falling"/>
 </p>
@@ -90,7 +90,7 @@ Yeni yıl ruhuyla ✨ üretmeye, öğrenmeye ve paylaşmaya devam ediyorum.
 
 ## ☕ Bir Kahve Al, Projelere Bak!
 
-☕ Kahveni al, repoları incele —  
+☕ Kahveni al, repoları incele
 belki birlikte bir şeyler üretiriz 🚀❄️
 
 ---
