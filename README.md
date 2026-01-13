@@ -90,7 +90,7 @@ Yeni yıl ruhuyla ✨ üretmeye, öğrenmeye ve paylaşmaya devam ediyorum.
 
 ## ☕ Bir Kahve Al, Projelere Bak!
 
-☕ Kahveni al, repoları incele
+Kahveni al, repoları incele
 belki birlikte bir şeyler üretiriz 🚀❄️
 
 ---
