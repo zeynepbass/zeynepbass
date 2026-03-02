@@ -47,7 +47,7 @@ Yeni yıl ruhuyla ✨ üretmeye, öğrenmeye ve paylaşmaya devam ediyorum.
 - Git • GitHub
 - VS Code
 - Postman
-- Docker • NPM
+- NPM
 
 ---
 
