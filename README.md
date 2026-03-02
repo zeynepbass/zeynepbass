@@ -27,7 +27,6 @@ dönüştürmeyi seviyorum.
 - Performanslı React uygulamaları
 - Gerçek projelerde sürdürülebilir frontend yapıları
 
-Yeni yıl ruhuyla ✨ üretmeye, öğrenmeye ve paylaşmaya devam ediyorum.
 
 ---
 
