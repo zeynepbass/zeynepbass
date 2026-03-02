@@ -30,7 +30,7 @@ dönüştürmeyi seviyorum.
 
 ---
 
-## 🎁 Teknolojiler & Araçlar
+## 🖲️ Teknolojiler & Araçlar
 
 ### 🧩 Frontend
 - React • TypeScript • Next.js  
