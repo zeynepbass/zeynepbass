@@ -16,7 +16,7 @@
 
 ---
 
-## ❄️ Ben Kimim?
+## 🙋🏻‍♀️ Ben Kimim?
 
 Kod ve tasarımı bir araya getirerek  
 **fikirleri → ölçeklenebilir → modern → kullanıcı dostu arayüzlere**  
