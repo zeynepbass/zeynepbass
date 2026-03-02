@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <b>Merhaba, ben Zeynep 👋</b><br/>
-  <i>Frontend Developer | React & Next.js Specialist</i>
+  <b>Merhaba, ben Zeynep</b><br/>
+  <i>Frontend Engineer | React & Next.js Specialist</i>
 </p>
 
 ---
