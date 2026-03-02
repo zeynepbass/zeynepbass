@@ -90,10 +90,5 @@ dönüştürmeyi seviyorum.
 ## ☕ Bir Kahve Al, Projelere Bak!
 
 Kahveni al, repoları incele
-belki birlikte bir şeyler üretiriz 🚀❄️
+belki birlikte bir şeyler üretiriz 🚀🤷🏻‍♀️
 
----
-
-<p align="center">
-  <i>“Good UI is invisible, good code is unforgettable.”</i>
-</p>
