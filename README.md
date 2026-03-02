@@ -50,7 +50,7 @@ dönüştürmeyi seviyorum.
 
 ---
 
-## ❄️ İlgi Alanlarım
+## 👾 İlgi Alanlarım
 
 - 🧼 Clean Code
 - 🧠 Frontend Architecture (Service / Hook / UI ayrımı)  
