@@ -43,8 +43,8 @@ Sadece component değil, sistem geliştiririm.
 ## 🔭 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynepbass&show_icons=true&theme=transparent&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepbass&layout=compact&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeynepbas&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepbas&layout=compact&theme=transparent&hide_border=true" height="160" />
 </p>
 
 ---
