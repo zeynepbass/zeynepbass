@@ -6,30 +6,6 @@ Karmaşık iş mantığını, kullanıcıya kusursuz deneyimler sunan ölçeklen
 
 ---
 
-## 🧠 Mühendislik Yaklaşımım
-
-Geliştirdiğim frontend sistemler:
-
-- Ölçeklenebilir  
-- Bakımı kolay (Maintainable)  
-- Test edilebilir  
-- Performans odaklıdır  
-
-Karmaşık sistemleri modüler, yeniden kullanılabilir ve öngörülebilir yapılara bölmeye odaklanırım.
-
-Sadece component değil, sistem geliştiririm.
-
----
-
-## 🛠️ Teknoloji Yığını
-
-**Frontend:** Next.js (App Router), React, TypeScript  
-**State Management:** Zustand, React Query, Context API  
-**UI & Styling:** Tailwind CSS, Shadcn UI, Framer Motion  
-**Tools & Testing:** Git, Docker, Postman, Playwright, Jest  
-
----
-
 ## ⚡ Odak Alanlarım
 
 - Role-Based Access Control (RBAC) mimarileri  
