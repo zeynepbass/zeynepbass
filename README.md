@@ -19,8 +19,9 @@ Karmaşık iş mantığını, kullanıcıya kusursuz deneyimler sunan ölçeklen
 ## 🔭 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepbass" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepbass" width="100%" height="200" />
 </p>
+
 ---
 
 ## 🤝 İletişim
