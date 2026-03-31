@@ -43,9 +43,8 @@ Sadece component değil, sistem geliştiririm.
 ## 🔭 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepbass" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepbass&theme=github-dark&hide_border=true" width="100%" />
 </p>
-
 ---
 
 ## 🤝 İletişim
