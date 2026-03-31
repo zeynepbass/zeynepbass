@@ -1,94 +1,56 @@
+👩🏻‍💻 Zeynep | Frontend Engineer
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" alt="Snow Falling"/>
-</p>
+> Temiz, ölçeklenebilir ve performans odaklı frontend sistemleri tasarlıyorum.
 
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6d306284-ef14-4acc-bf3b-4c7d8717bc5e" width="50" height="50" />
-</p>
-
-<p align="center">
-  <b>Merhaba, ben Zeynep</b><br/>
-  <i>Frontend Engineer | React & Next.js Specialist</i>
-</p>
+Karmaşık iş mantığını, kullanıcıya kusursuz deneyimler sunan ölçeklenebilir frontend mimarilerine dönüştürürüm.
 
 ---
 
-## 🙋🏻‍♀️ Ben Kimim?
+## 🧠 Mühendislik Yaklaşımım
 
-Kod ve tasarımı bir araya getirerek  
-**fikirleri → ölçeklenebilir → modern → kullanıcı dostu arayüzlere**  
-dönüştürmeyi seviyorum.
+Geliştirdiğim frontend sistemler:
 
-🎯 Odak noktam:
-- Temiz mimari
-- Performanslı React uygulamaları
-- Gerçek projelerde sürdürülebilir frontend yapıları
+- Ölçeklenebilir  
+- Bakımı kolay (Maintainable)  
+- Test edilebilir  
+- Performans odaklıdır  
 
+Karmaşık sistemleri modüler, yeniden kullanılabilir ve öngörülebilir yapılara bölmeye odaklanırım.
 
----
-
-## 🖲️ Teknolojiler & Araçlar
-
-### 🧩 Frontend
-- React • TypeScript • Next.js  
-- Tailwind CSS • Shadcn UI  
-- Zustand • Context API  
-
-### 🎨 Tasarım
-- Figma
-- UI/UX Prototipleme
-- Design → Code dönüşümü
-
-### 🛠️ Araçlar
-- Git • GitHub
-- VS Code
-- Postman
-- NPM
+Sadece component değil, sistem geliştiririm.
 
 ---
 
-## 👾 İlgi Alanlarım
+## 🛠️ Teknoloji Yığını
 
-- 🧼 Clean Code
-- 🧠 Frontend Architecture (Service / Hook / UI ayrımı)  
-- 🎯 Figma tasarımlarını birebir React bileşenlerine dönüştürmek  
-- ⚡ Performans, erişilebilirlik ve SEO dostu arayüzler  
+**Frontend:** Next.js (App Router), React, TypeScript  
+**State Management:** Zustand, React Query, Context API  
+**UI & Styling:** Tailwind CSS, Shadcn UI, Framer Motion  
+**Tools & Testing:** Git, Docker, Postman, Playwright, Jest  
 
 ---
 
-## 🧊 Kullandığım Teknolojiler
+## ⚡ Odak Alanlarım
+
+- Role-Based Access Control (RBAC) mimarileri  
+- Enterprise dashboard sistemleri  
+- Modüler frontend mimarisi  
+- Performans optimizasyonu (Core Web Vitals, SSR/ISR)  
+- Design system (Atomic Design prensipleri)  
+
+---
+
+## 🔭 GitHub İstatistikleri
 
 <p align="center">
-  <img src="html.webp" width="55"/>
-  <img src="css.png" width="55"/>
-  <img src="bootstap.png" width="55"/>
-  <img src="react.svg" width="55"/>
-  <img src="react-native.png" width="55"/>
-  <img src="ts.svg" width="55"/>
-  <img src="next.png" width="55"/>
-  <img src="tailwindcss-logo.png" width="55"/>
-  <img src="shadcn.png" width="55"/>
-  <img src="postman.png" width="90"/>
-  <img src="docker.png" width="55"/>
-  <img src="npm.png" width="55"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="160" />
 </p>
 
 ---
 
-## 🚀 Şu An Ne Yapıyorum?
+## 🤝 İletişim
 
-- 🔐 Protected Routes & Role-Based Access projeleri
-- 🏗️ SaaS dashboard mimarileri
-- 📦 Service / Hook / UI ayrımı olan projeler
-- 🌍 i18n & SEO uyumlu Next.js uygulamaları
-
----
-
-## ☕ Bir Kahve Al, Projelere Bak!
-
-Kahveni al, repoları incele
-belki birlikte bir şeyler üretiriz 🚀🤷🏻‍♀️
-
+[LinkedIn](https://www.linkedin.com/in/zeynepbasss) • 
+[Portfolio](https://zeynepbas.dev) • 
+[Email](mailto:baszynpp@gmail.com)
