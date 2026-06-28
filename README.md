@@ -20,4 +20,5 @@ Karmaşık iş mantığını, kullanıcıya kusursuz deneyimler sunan ölçeklen
 
 [LinkedIn](https://www.linkedin.com/in/zeynepbasss) • 
 [Portfolio](https://zeynepbas.dev) • 
-[Email](mailto:baszynpp@gmail.com)
+[Email](mailto:baszynpp@gmail.com) •
+[Linktr.ee](https://linktr.ee/zeynepbas) 
