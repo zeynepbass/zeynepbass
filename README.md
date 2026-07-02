@@ -106,18 +106,6 @@ Kod yazarken önceliğim;
 
 ---
 
-# 📈 GitHub İstatistikleri
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&hide_border=true"/>
-
-</p>
-
----
-
 # 🤝 İletişim
 
 📧 **E-posta:** baszynpp@gmail.com
