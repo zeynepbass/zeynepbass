@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Merhaba, ben Zeynep Baş
+## 🖥️ Frontend Architecture & Performance
 
-### Frontend Engineer
-
-Ölçeklenebilir, sürdürülebilir ve performans odaklı web uygulamaları geliştiriyorum.
+Modern web uygulamaları için ölçeklenebilir, performans odaklı ve sürdürülebilir frontend mimarileri geliştiriyorum.
 
 [LinkedIn](https://www.linkedin.com/in/zeynepbasss) •
 [Portfolyo](https://zeynepbas.dev) •
@@ -15,54 +13,73 @@
 
 ---
 
-# 🚀 Hakkımda
+# Hakkımda
 
-Modern frontend teknolojileriyle kullanıcı deneyimini ön planda tutan uygulamalar geliştiriyorum.
+Frontend geliştirmeyi yalnızca arayüz oluşturmak olarak değil; kullanıcı deneyimi, performans, sürdürülebilirlik ve yazılım mimarisinin birleşimi olarak görüyorum.
 
-Kod yazarken önceliğim;
+Projelerimde önceliğim;
 
-- Temiz ve okunabilir kod
-- Yeniden kullanılabilir bileşenler
-- Ölçeklenebilir mimari
-- Performans
-- Bakımı kolay projeler oluşturmaktır.
+- Ölçeklenebilir component mimarisi
+- Modüler proje yapısı
+- Performans optimizasyonu
+- Yeniden kullanılabilir UI bileşenleri
+- Maintainable (bakımı kolay) kod tabanı
+- Kullanıcı deneyimini ön planda tutan arayüzler
 
-Özellikle dashboard uygulamaları, yönetim panelleri ve kurumsal frontend mimarileri geliştirmekten keyif alıyorum.
+Atomic Design yaklaşımıyla tasarlanmış component yapıları, güçlü state yönetimi ve modern React ekosistemi kullanarak büyük ölçekli uygulamalar geliştirmeyi seviyorum.
 
 ---
 
-# 🛠️ Teknolojiler
+# Uzmanlık Alanlarım
+
+- Dashboard Uygulamaları
+- Admin Panel Geliştirme
+- Enterprise Frontend Mimarisi
+- RBAC (Role Based Access Control)
+- Design System
+- Component Library
+- Responsive UI
+- API Entegrasyonları
+- Performans Optimizasyonu
+- Code Splitting
+- Lazy Loading
+- SEO (Next.js)
+- Accessibility (WCAG)
+
+---
+
+# Teknoloji Stack'i
 
 ### Frontend
 
 - React
 - Next.js
 - TypeScript
-- JavaScript (ES6+)
+- JavaScript (ES2024)
 - Tailwind CSS
 - HTML5
 - CSS3
 
 ### State Management
 
-- Context API
 - Redux Toolkit
 - Zustand
+- Context API
 
-### API
+### Data
 
-- REST API
-- Axios
 - TanStack Query
+- Axios
+- REST API
 
-### UI & Mimari
+### Architecture
 
 - Atomic Design
-- Responsive Design
-- Design System
+- Feature Based Architecture
 - Component Driven Development
+- Clean Architecture
 
-### Araçlar
+### Tools
 
 - Git
 - GitHub
@@ -72,46 +89,99 @@ Kod yazarken önceliğim;
 
 ---
 
-# 🎯 İlgi Alanlarım
+# Geliştirdiğim Projeler
 
-- Frontend Mimarisi
-- Enterprise Dashboard Geliştirme
-- RBAC (Role Based Access Control)
-- Design System
-- Performans Optimizasyonu
-- Core Web Vitals
-- Erişilebilirlik (Accessibility)
-- Clean Code
-- SOLID Prensipleri
+### 📋 Task Management Platform
+
+Modern görev yönetim sistemi.
+
+**Öne çıkan özellikler**
+
+- Kanban Board
+- Drag & Drop
+- Table View
+- List View
+- Calendar View
+- Dashboard
+- AI Suggestions
+- Responsive Design
+- Atomic Design
+- Dynamic Imports
+- Feature Based Architecture
 
 ---
 
-# 📚 Şu An Odaklandıklarım
+### 📁 Document Management System
 
-- Büyük ölçekli Next.js projeleri
-- TypeScript'in ileri seviye kullanımı
+Dosya yönetimi ve doküman organizasyonu.
+
+**Öne çıkan özellikler**
+
+- Dosya filtreleme
+- Responsive Grid
+- Upload yapısı
+- Arama
+- Kategori yönetimi
+- Modern UI
+
+---
+
+### 📊 Dashboard Analytics
+
+Gerçek zamanlı yönetim paneli.
+
+**İçerik**
+
+- KPI Kartları
+- İstatistik Grafikleri
+- Takvim
+- Aktivite Akışı
+- Dashboard Widget Yapısı
+
+---
+
+# Yazılım Yaklaşımım
+
+Kod yazarken aşağıdaki prensiplere önem veriyorum.
+
+- SOLID
+- DRY
+- KISS
+- Reusable Components
+- Separation of Concerns
+- Feature Based Structure
+- Clean Code
+- Performans Odaklı Geliştirme
+
+---
+
+# Şu An Çalıştığım Konular
+
+- Büyük ölçekli Next.js uygulamaları
 - Frontend mimarileri
 - AI destekli web uygulamaları
-- Yazılım tasarım desenleri
+- Design System geliştirme
+- Performans optimizasyonu
+- Streaming UI
+- Modern React Patterns
 
 ---
 
-# 📌 Öne Çıkan Projeler
+# İletişim
 
-- 📋 Task Management Dashboard
-- 📊 Admin Dashboard
-- 📁 Document Management System
-- 🤖 AI Destekli Dashboard
-- 📅 Calendar & Planning Application
+📧 **Mail**
 
----
+**baszynpp@gmail.com**
 
-# 🤝 İletişim
+💼 **LinkedIn**
 
-📧 **E-posta:** baszynpp@gmail.com
+linkedin.com/in/zeynepbasss
 
-💼 **LinkedIn:** https://www.linkedin.com/in/zeynepbasss
+🌐 **Portfolio**
 
-🌐 **Portfolyo:** https://zeynepbas.dev
+zeynepbas.dev
 
-🔗 **Linktree:** https://linktr.ee/zeynepbas
+🔗 **Linktree**
+
+linktr.ee/zeynepbas
+
