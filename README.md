@@ -1,24 +1,129 @@
-👩🏻‍💻 Zeynep | Frontend Engineer
+<div align="center">
 
-> Temiz, ölçeklenebilir ve performans odaklı frontend sistemleri tasarlıyorum.
+# 👋 Merhaba, ben Zeynep Baş
 
-Karmaşık iş mantığını, kullanıcıya kusursuz deneyimler sunan ölçeklenebilir frontend mimarilerine dönüştürürüm.
+### Frontend Engineer
+
+Ölçeklenebilir, sürdürülebilir ve performans odaklı web uygulamaları geliştiriyorum.
+
+[LinkedIn](https://www.linkedin.com/in/zeynepbasss) •
+[Portfolyo](https://zeynepbas.dev) •
+[E-posta](mailto:baszynpp@gmail.com) •
+[Linktree](https://linktr.ee/zeynepbas)
+
+</div>
 
 ---
 
-## ⚡ Odak Alanlarım
+# 🚀 Hakkımda
 
-- Role-Based Access Control (RBAC) mimarileri  
-- Enterprise dashboard sistemleri  
-- Modüler frontend mimarisi  
-- Performans optimizasyonu (Core Web Vitals, SSR/ISR)  
-- Design system (Atomic Design prensipleri)  
+Modern frontend teknolojileriyle kullanıcı deneyimini ön planda tutan uygulamalar geliştiriyorum.
+
+Kod yazarken önceliğim;
+
+- Temiz ve okunabilir kod
+- Yeniden kullanılabilir bileşenler
+- Ölçeklenebilir mimari
+- Performans
+- Bakımı kolay projeler oluşturmaktır.
+
+Özellikle dashboard uygulamaları, yönetim panelleri ve kurumsal frontend mimarileri geliştirmekten keyif alıyorum.
 
 ---
 
-## 🤝 İletişim
+# 🛠️ Teknolojiler
 
-[LinkedIn](https://www.linkedin.com/in/zeynepbasss) • 
-[Portfolio](https://zeynepbas.dev) • 
-[Email](mailto:baszynpp@gmail.com) •
-[Linktr.ee](https://linktr.ee/zeynepbas) 
+### Frontend
+
+- React
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
+
+### State Management
+
+- Context API
+- Redux Toolkit
+- Zustand
+
+### API
+
+- REST API
+- Axios
+- TanStack Query
+
+### UI & Mimari
+
+- Atomic Design
+- Responsive Design
+- Design System
+- Component Driven Development
+
+### Araçlar
+
+- Git
+- GitHub
+- Figma
+- Postman
+- Vercel
+
+---
+
+# 🎯 İlgi Alanlarım
+
+- Frontend Mimarisi
+- Enterprise Dashboard Geliştirme
+- RBAC (Role Based Access Control)
+- Design System
+- Performans Optimizasyonu
+- Core Web Vitals
+- Erişilebilirlik (Accessibility)
+- Clean Code
+- SOLID Prensipleri
+
+---
+
+# 📚 Şu An Odaklandıklarım
+
+- Büyük ölçekli Next.js projeleri
+- TypeScript'in ileri seviye kullanımı
+- Frontend mimarileri
+- AI destekli web uygulamaları
+- Yazılım tasarım desenleri
+
+---
+
+# 📌 Öne Çıkan Projeler
+
+- 📋 Task Management Dashboard
+- 📊 Admin Dashboard
+- 📁 Document Management System
+- 🤖 AI Destekli Dashboard
+- 📅 Calendar & Planning Application
+
+---
+
+# 📈 GitHub İstatistikleri
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 İletişim
+
+📧 **E-posta:** baszynpp@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/zeynepbasss
+
+🌐 **Portfolyo:** https://zeynepbas.dev
+
+🔗 **Linktree:** https://linktr.ee/zeynepbas
