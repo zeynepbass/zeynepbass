@@ -83,7 +83,7 @@ Atomic Design yaklaşımıyla tasarlanmış component yapıları, güçlü state
 
 - Git
 - GitHub
-- Figma
+- Claude
 - Postman
 - Vercel
 
