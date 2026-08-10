@@ -1,4 +1,4 @@
-### Frontend Developer
+### React Frontend Developer | Architecture & Performance Focused
 
 Ölçeklenebilir frontend mimarileri geliştiriyorum.
 Performans odaklı, modern ve sürdürülebilir web deneyimleri tasarlıyorum.
