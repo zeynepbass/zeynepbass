@@ -1,4 +1,4 @@
-### Frontend Engineer
+### Frontend Developer
 
 Ölçeklenebilir frontend mimarileri geliştiriyorum.
 Performans odaklı, modern ve sürdürülebilir web deneyimleri tasarlıyorum.
