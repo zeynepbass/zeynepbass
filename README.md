@@ -1,11 +1,5 @@
-<div align="center">
+### Frontend Architecture & Performance
 
-## Frontend Architecture & Performance
-
-Modern web uygulamaları için ölçeklenebilir, performans odaklı ve sürdürülebilir frontend mimarileri geliştiriyorum.
+Scalable, high-performance frontend architectures built for modern web applications.
 
 [Linktree](https://linktr.ee/zeynepbas)
-
-</div>
-
----
