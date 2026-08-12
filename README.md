@@ -1,8 +1,5 @@
 ### React Frontend Developer | Architecture & Performance Focused
 
-Ölçeklenebilir frontend mimarileri geliştiriyorum.
-Performans odaklı, modern ve sürdürülebilir web deneyimleri tasarlıyorum.
-React, Next.js ve modern frontend teknolojileriyle çalışıyorum.
-Temiz kod, iyi mimari ve kullanıcı deneyimine önem veriyorum.
+I develop scalable front-end architectures. I design performance-oriented, modern, and sustainable web experiences. I work with React, Next.js, and modern front-end technologies, prioritizing clean code, sound architecture, and user experience.
 
 [Linktree](https://linktr.ee/zeynepbas)
