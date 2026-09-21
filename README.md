@@ -1,4 +1,15 @@
-### React Frontend Developer | Architecture & Performance Focused
+### Frontend Developer | React.js, Next.js | Architecture & Performance Focused
 
-I develop scalable front-end architectures. I design performance-oriented, modern, and sustainable web experiences. I work with React, Next.js, and modern front-end technologies, prioritizing clean code, sound architecture, and user experience.
+Frontend geliştirmede önceliğim hız değil, doğru mimari kararı vermek. Bir component'i
+ne zaman böleceğime, state'i nerede tutacağıma ve hangi katmanın gerçekten gerekli
+olduğuna, karmaşıklığın kendisine değil çözdüğü soruna bakarak karar veriyorum.
+
+React ve Next.js ile üretime çıkan projelerde feature-based mimari kurdum; sunucu
+verisini TanStack Query, istemci durumunu Zustand ve Redux Toolkit ile ayrıştırdım.
+
+Şu anda bilgisayar mühendisliği yüksek lisansı yapıyor, aşağıdaki bağımsız
+projelerimde mimari ve performans konularında derinleşmeye devam ediyorum.
+
+
+
 
