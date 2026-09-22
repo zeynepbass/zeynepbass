@@ -1,7 +1,5 @@
-<h3>
-  <font color="#C1121F">
-    Frontend Developer · React.js · Next.js · Architecture & Performance
-  </font>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=1000&color=C1121F&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+React.js%2C+Next.js+%7C+Architecture+%26+Performance+Focused" />
 </h3>
 
 Frontend geliştirmede önceliğim hız değil, doğru mimari kararı vermek. Bir component'i
