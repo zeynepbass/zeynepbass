@@ -4,8 +4,9 @@
     width="100%"
   />
 </h3>
-<p style="font-size: 15px;">
-  Frontend geliştirmede önceliğim hız değil, doğru mimari kararı vermek. Bir component'i
-  ne zaman böleceğime, state'i nerede tutacağıma ve hangi katmanın gerçekten gerekli
-  olduğuna, karmaşıklığın kendisine değil çözdüğü soruna bakarak karar veriyorum.
+
+<p align="left">
+  Frontend geliştirmede önceliğim sadece hız değil, doğru mimari kararı vermek.
+  Component sınırlarını, state'in konumunu ve gerekli katmanları; çözdükleri probleme
+  ve uygulamanın gerçek ihtiyacına göre belirliyorum.
 </p>
