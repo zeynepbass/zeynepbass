@@ -7,7 +7,13 @@
 
 <p align="left">
   <sub>
-    Önceliğim sadece hız değil; doğru component sınırlarını, state yönetimini
-    ve mimari katmanları gerçek probleme göre belirlemek.
-  </sub>
+    Frontend geliştirmede önceliğim sadece hız değil, doğru mimari kararı vermek.
+
+    Component sınırlarını, state'in konumunu ve gerekli katmanları; çözdükleri
+
+    probleme ve uygulamanın gerçek ihtiyacına göre belirliyorum.
+
+ 
+
+      </sub>
 </p>
