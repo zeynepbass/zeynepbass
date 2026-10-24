@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./zeynep-hero.svg" width="100%" alt="Zeynep Baş — Frontend Developer · React.js · Next.js · TypeScript" />
+  <img src="./zeynep.svg" width="100%" alt="Zeynep Baş — Frontend Developer · React.js · Next.js · TypeScript" />
 </p>
 
 <p align="center">
