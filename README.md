@@ -51,11 +51,6 @@ Salonları puan, portföy ve gerçek boş saatlere göre karşılaştırıp anı
   <img src="./zeynep-skills.svg" width="100%" alt="Temel: HTML5, CSS3, JavaScript, TypeScript · Framework: React.js, Next.js, React Native · Arayüz: Tailwind CSS, shadcn/ui, Bootstrap · Araçlar: Docker, Postman, npm, Git" />
 </p>
 
-## Katkı Haritası
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zeynepbass/zeynepbass/output/contribution-snake.svg" width="100%" alt="GitHub katkı grafiği (gerçek veriden üretilir)" />
-</p>
 
 <p align="center">
   <img src="./zeynep-footer.svg" width="100%" alt="" />
