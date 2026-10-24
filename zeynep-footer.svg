@@ -1,16 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-labelledby="zbFtTitle">
-  <title id="zbFtTitle">Okuduğun için teşekkürler</title>
-  <defs>
-    <linearGradient id="zbFtLine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#701A3D" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#C77B9B"/>
-      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <path d="M60 45 C 300 15, 480 75, 600 45 S 900 15, 1140 45" fill="none" stroke="url(#zbFtLine)" stroke-width="2" stroke-dasharray="1200">
-    <animate attributeName="stroke-dashoffset" values="1200;0;0" keyTimes="0;0.5;1" dur="6s" repeatCount="indefinite"/>
-  </path>
-  <circle cx="600" cy="45" r="5" fill="#E5B5C7">
-    <animate attributeName="r" values="4;7;4" dur="3s" repeatCount="indefinite"/>
-  </circle>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title">
+  <title id="title">Thanks for visiting my GitHub profile</title>
+  <defs><linearGradient id="red" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7F101B"/><stop offset=".5" stop-color="#C1121F"/><stop offset="1" stop-color="#F05A67"/></linearGradient></defs>
+  <rect width="1200" height="120" rx="16" fill="#432B2B"/>
+  <path d="M0 0 H1200" stroke="url(#red)" stroke-width="3" stroke-dasharray="250 950"><animate attributeName="stroke-dashoffset" from="1200" to="0" dur="5s" repeatCount="indefinite"/></path>
+  <path d="M40 30 H1160" stroke="#9FD3F5" stroke-width="1" opacity=".6" stroke-dasharray="3 9"><animate attributeName="stroke-dashoffset" from="0" to="-120" dur="8s" repeatCount="indefinite"/></path>
+  <text x="600" y="63" text-anchor="middle" fill="#FFF7F3" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">Thanks for stopping by</text>
+  <text x="600" y="88" text-anchor="middle" fill="#9FD3F5" font-family="monospace" font-size="13">LET'S BUILD SOMETHING THOUGHTFUL</text>
+  <path d="M40 106 H1160" stroke="url(#red)" stroke-width="2" stroke-dasharray="100 1040"><animate attributeName="stroke-dashoffset" from="0" to="-1140" dur="6s" repeatCount="indefinite"/></path>
 </svg>

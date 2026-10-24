@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title">
+  <title id="title">Skills — Frontend development technologies</title>
+  <defs>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7F101B"/><stop offset=".55" stop-color="#C1121F"/><stop offset="1" stop-color="#F05A67"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="210" rx="16" fill="#432B2B"/>
+  <path d="M0 1 H1200" stroke="url(#red)" stroke-width="3" stroke-dasharray="220 980">
+    <animate attributeName="stroke-dashoffset" from="1200" to="0" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <path d="M30 28 H1170" stroke="#9FD3F5" stroke-width="1" opacity=".65" stroke-dasharray="4 8">
+    <animate attributeName="stroke-dashoffset" from="0" to="-120" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <text x="40" y="57" fill="#9FD3F5" font-family="monospace" font-size="13" letter-spacing="3">TOOLKIT / 01</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="40" y="91" fill="#FFF7F3" font-size="18" font-weight="700">CORE</text>
+    <text x="40" y="116" fill="#E8DCD8" font-size="15">HTML5 · CSS3 · JavaScript · TypeScript</text>
+    <text x="40" y="158" fill="#FFF7F3" font-size="18" font-weight="700">FRAMEWORKS</text>
+    <text x="40" y="183" fill="#E8DCD8" font-size="15">React.js · Next.js · React Native</text>
+    <text x="650" y="91" fill="#FFF7F3" font-size="18" font-weight="700">UI &amp; STATE</text>
+    <text x="650" y="116" fill="#E8DCD8" font-size="15">Tailwind CSS · shadcn/ui · Bootstrap</text>
+    <text x="650" y="158" fill="#FFF7F3" font-size="18" font-weight="700">TOOLS</text>
+    <text x="650" y="183" fill="#E8DCD8" font-size="15">Docker · Postman · npm · Git</text>
+  </g>
+  <path d="M600 73 V185" stroke="#9FD3F5" stroke-width="1" opacity=".5"/>
+  <path d="M30 198 H1170" stroke="url(#red)" stroke-width="2" stroke-dasharray="80 1060">
+    <animate attributeName="stroke-dashoffset" from="0" to="-1140" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="1160" cy="28" r="3" fill="#C1121F"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+</svg>
