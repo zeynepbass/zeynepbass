@@ -8,7 +8,6 @@
     alt="Frontend Geliştirici | React.js & Next.js | Mimari & Performans Odaklı"
   />
 </p>
-
 ## Hakkımda
 
 Frontend geliştirmede önceliğim sadece hız değil, doğru mimari kararı vermek.
@@ -16,7 +15,7 @@ Component sınırlarını, state'in konumunu ve gerekli katmanları; çözdükle
 probleme ve uygulamanın gerçek ihtiyacına göre belirliyorum.
 
 <p>
-  <a href="https://www.zeynepbas.dev"><img src="https://img.shields.io/badge/Portfolyo-zeynepbas.dev-d9343c?style=flat-square&labelColor=d6eaf8" alt="Portfolyo: zeynepbas.dev" /></a>
+  <a href="https://www.zeynepbas.dev"><img src="https://img.shields.io/badge/Portfolyo-zeynepbas.dev-C1121F?style=flat-square&labelColor=d6eaf8" alt="Portfolyo: zeynepbas.dev" /></a>
 </p>
 
 <p align="center">
