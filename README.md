@@ -19,12 +19,6 @@ probleme ve uygulamanın gerçek ihtiyacına göre belirliyorum.
   <a href="https://www.zeynepbas.dev"><img src="https://img.shields.io/badge/Portfolyo-zeynepbas.dev-432B2B?style=flat-square&labelColor=190B12" alt="Portfolyo: zeynepbas.dev" /></a>
 </p>
 
-## Yetenekler
-
-<p align="center">
-  <img src="./zeynep-skills.svg" width="100%" alt="Temel: HTML5, CSS3, JavaScript, TypeScript · Framework: React.js, Next.js, React Native · Arayüz: Tailwind CSS, shadcn/ui, Bootstrap · Araçlar: Docker, Postman, npm, Git" />
-</p>
-
 <p align="center">
   <img src="./zeynep-footer.svg" width="100%" alt="Thanks for stopping by" />
 </p>
