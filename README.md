@@ -8,6 +8,7 @@
     alt="Frontend Geliştirici | React.js & Next.js | Mimari & Performans Odaklı"
   />
 </p>
+
 ## Hakkımda
 
 Frontend geliştirmede önceliğim sadece hız değil, doğru mimari kararı vermek.
