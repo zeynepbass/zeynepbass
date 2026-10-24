@@ -16,7 +16,7 @@ Component sınırlarını, state'in konumunu ve gerekli katmanları; çözdükle
 probleme ve uygulamanın gerçek ihtiyacına göre belirliyorum.
 
 <p>
-  <a href="https://www.zeynepbas.dev"><img src="https://img.shields.io/badge/Portfolyo-zeynepbas.dev-432B2B?style=flat-square&labelColor=d6eaf8" alt="Portfolyo: zeynepbas.dev" /></a>
+  <a href="https://www.zeynepbas.dev"><img src="https://img.shields.io/badge/Portfolyo-zeynepbas.dev-d9343c?style=flat-square&labelColor=d6eaf8" alt="Portfolyo: zeynepbas.dev" /></a>
 </p>
 
 <p align="center">
