@@ -19,32 +19,6 @@ probleme ve uygulamanın gerçek ihtiyacına göre belirliyorum.
   <a href="https://www.zeynepbas.dev"><img src="https://img.shields.io/badge/Portfolyo-zeynepbas.dev-432B2B?style=flat-square&labelColor=190B12" alt="Portfolyo: zeynepbas.dev" /></a>
 </p>
 
-## Projelerim
-
-**PDOS** — Kişisel Veri ve Verimlilik Yönetim Sistemi<br>
-Görevleri, notları, hedefleri, belgeleri ve günlük aktiviteleri tek bir çalışma alanında birleştiren kişisel verimlilik uygulaması. Component odaklı geliştirme ve ölçeklenebilir frontend mimarisi üzerine kuruldu.<br>
-[Projeyi gör →](https://www.zeynepbas.dev/projects)
-
-**MILK** — Yerel Üretici ve Tüketici Pazar Platformu<br>
-Yerel üreticileri tüketicilerle doğrudan buluşturan pazar platformu. Gönderi paylaşımı, takip, beğeni, yorum ve satıcıyla gerçek zamanlı mesajlaşma.<br>
-`React` `Tailwind CSS` `React Query` `Zustand` `Node.js` `Express` `MongoDB` `Socket.IO`<br>
-[Repo →](https://github.com/zeynepbass/milk)
-
-**Workist** — Freelance Hizmet ve İlan Platformu<br>
-Kullanıcıların freelance hizmet ilanı oluşturup yönettiği, hizmet verenlerle sohbet ettiği ve aldığı hizmeti değerlendirdiği uçtan uca platform.<br>
-`React` `Tailwind CSS` `React Query` `Zustand` `Node.js` `Express` `MongoDB` `Socket.IO`<br>
-[Repo →](https://github.com/zeynepbass/workist)
-
-**Hizmet Kap** — Kişiye Özel Hizmet İlan Platformu<br>
-Tadilat, temizlik, nakliyat gibi ihtiyaçlar için adım adım hizmet talebi oluşturma, hizmet verenle gerçek zamanlı mesajlaşma ve değerlendirme.<br>
-`Next.js` `Tailwind CSS` `React Query` `Leaflet` `Node.js` `Express` `MongoDB` `Socket.IO`<br>
-[Repo →](https://github.com/zeynepbass/hizmetkap)
-
-**Salonify** — Kuaför ve Güzellik Salonu Randevu Platformu<br>
-Salonları puan, portföy ve gerçek boş saatlere göre karşılaştırıp anında randevu alma; salon sahipleri için randevu, takvim ve hizmet yönetim paneli.<br>
-`Next.js` `Tailwind CSS` `React Query` `Node.js` `Express` `MongoDB`<br>
-[Repo →](https://github.com/zeynepbass/salonify)
-
 ## Yetenekler
 
 <p align="center">
