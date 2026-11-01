@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://www.zeynepbas.dev"><img src="https://img.shields.io/badge/Portfolyo-zeynepbas.dev-C1121F?style=flat-square" alt="Portfolyo" /></a>
   <a href="https://www.linkedin.com/in/zeynepbasss"><img src="https://img.shields.io/badge/LinkedIn-zeynepbasss-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Konum-T%C3%BCrkiye-1f2937?style=flat-square" alt="Konum: Türkiye" />
 </p>
 
 ---
