@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1172" viewBox="0 0 1000 1172" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs>
+<clipPath id="r"><rect width="1000" height="1172" rx="16"/></clipPath>
+<radialGradient id="g1" cx="85%" cy="-20%" r="70%"><stop offset="0" stop-color="#861118" stop-opacity="0.55"/><stop offset="1" stop-color="#861118" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="85%" cy="-30%" r="80%"><stop offset="0" stop-color="#861118" stop-opacity="0.7"/><stop offset="0.64" stop-color="#861118" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#F4ECEC" fill-opacity="0.06"/></pattern>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1000" height="1172" fill="#170A0A"/>
+<rect width="1000" height="418" fill="url(#g1)"/>
+<rect width="1000" height="418" fill="url(#dots)"/>
+<rect y="418" width="1000" height="754" fill="#590A0F"/>
+<rect y="418" width="1000" height="754" fill="url(#g2)"/>
+<rect x="56" y="417" width="888" height="1" fill="#F05656" fill-opacity="0.5"/>
+<text x="56" y="64" fill="#F05656" font-size="13" font-weight="500" letter-spacing="1.6">HAKKIMDA</text>
+<text x="56" y="114" fill="#F4ECEC" font-size="40" font-weight="600" letter-spacing="-0.8">Teknik yaklaşım</text>
+<text x="56" y="178" fill="#F4ECEC" fill-opacity="0.82" font-size="16">React ekosisteminde uzmanlaşan bir Frontend Developer olarak; Redux ve Zustand ile ölçeklenebilir state yönetimi</text>
+<text x="56" y="206" fill="#F4ECEC" fill-opacity="0.82" font-size="16">çözümleri geliştiriyor, Tailwind CSS ile modern, duyarlı ve erişilebilir kullanıcı arayüzleri tasarlıyorum.</text>
+<text x="56" y="256" fill="#F4ECEC" fill-opacity="0.82" font-size="16">Temiz mimari prensiplerine uygun, yeniden kullanılabilir ve performans odaklı komponent yapıları oluşturmayı önemsiyorum.</text>
+<text x="56" y="284" fill="#F4ECEC" fill-opacity="0.82" font-size="16">RESTful API entegrasyonlarında deneyimliyim; JIRA ile Agile ekip süreçlerine aktif katkı sağlıyorum.</text>
+<text x="56" y="334" fill="#F4ECEC" fill-opacity="0.82" font-size="16">Analitik düşünme yaklaşımıyla, kullanıcı odaklı ve sürdürülebilir çözümler üretirken React ekosistemi ve modern frontend</text>
+<text x="56" y="362" fill="#F4ECEC" fill-opacity="0.82" font-size="16">mimarileri alanında uzmanlığımı derinleştirmeyi amaçlıyorum.</text>
+<text x="56" y="482" fill="#A8D8F0" font-size="13" font-weight="500" letter-spacing="1.6">TECH STACK</text>
+<text x="56" y="526" fill="#F4ECEC" font-size="30" font-weight="600" letter-spacing="-0.4">Günlük geliştirme araçlarım</text>
+<text x="56" y="580" fill="#A8D8F0" font-size="13" font-weight="500" letter-spacing="0.9">FRONTEND</text>
+<rect x="56.5" y="594.5" width="81" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="97" y="613" text-anchor="middle" fill="#F4ECEC" font-size="12.5">JavaScript</text>
+<rect x="144.5" y="594.5" width="82" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="185.5" y="613" text-anchor="middle" fill="#F4ECEC" font-size="12.5">TypeScript</text>
+<rect x="233.5" y="594.5" width="64" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="265.5" y="613" text-anchor="middle" fill="#F4ECEC" font-size="12.5">HTML5</text>
+<rect x="304.5" y="594.5" width="55" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="332" y="613" text-anchor="middle" fill="#F4ECEC" font-size="12.5">CSS3</text>
+<rect x="366.5" y="594.5" width="68" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="400.5" y="613" text-anchor="middle" fill="#F4ECEC" font-size="12.5">React.js</text>
+<rect x="56.5" y="629.5" width="61" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="87" y="648" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Next.js</text>
+<rect x="124.5" y="629.5" width="94" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="171.5" y="648" text-anchor="middle" fill="#F4ECEC" font-size="12.5">React Native</text>
+<rect x="225.5" y="629.5" width="51" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="251" y="648" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Expo</text>
+<rect x="283.5" y="629.5" width="44" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="305.5" y="648" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Vite</text>
+<text x="524" y="580" fill="#A8D8F0" font-size="13" font-weight="500" letter-spacing="0.9">STATE MANAGEMENT</text>
+<rect x="524.5" y="594.5" width="98" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="573.5" y="613" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Redux Toolkit</text>
+<rect x="629.5" y="594.5" width="85" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="672" y="613" text-anchor="middle" fill="#F4ECEC" font-size="12.5">RTK Query</text>
+<rect x="721.5" y="594.5" width="68" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="755.5" y="613" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Zustand</text>
+<rect x="796.5" y="594.5" width="89" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="841" y="613" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Context API</text>
+<rect x="524.5" y="629.5" width="111" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="580" y="648" text-anchor="middle" fill="#F4ECEC" font-size="12.5">TanStack Query</text>
+<text x="56" y="705" fill="#A8D8F0" font-size="13" font-weight="500" letter-spacing="0.9">UI FRAMEWORKS</text>
+<rect x="56.5" y="719.5" width="93" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="103" y="738" text-anchor="middle" fill="#F4ECEC" font-size="12.5">TailwindCSS</text>
+<rect x="156.5" y="719.5" width="83" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="198" y="738" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Material UI</text>
+<rect x="246.5" y="719.5" width="76" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="284.5" y="738" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Bootstrap</text>
+<rect x="329.5" y="719.5" width="84" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="371.5" y="738" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Ant Design</text>
+<rect x="56.5" y="754.5" width="81" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="97" y="773" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Shadcn UI</text>
+<rect x="144.5" y="754.5" width="91" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="190" y="773" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Headless UI</text>
+<rect x="242.5" y="754.5" width="99" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="292" y="773" text-anchor="middle" fill="#F4ECEC" font-size="12.5">CSS Modules</text>
+<text x="524" y="705" fill="#A8D8F0" font-size="13" font-weight="500" letter-spacing="0.9">FORM &amp; VALIDATION</text>
+<rect x="524.5" y="719.5" width="120" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="584.5" y="738" text-anchor="middle" fill="#F4ECEC" font-size="12.5">React Hook Form</text>
+<rect x="651.5" y="719.5" width="61" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="682" y="738" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Formik</text>
+<rect x="719.5" y="719.5" width="44" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="741.5" y="738" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Zod</text>
+<rect x="770.5" y="719.5" width="44" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="792.5" y="738" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Yup</text>
+<text x="56" y="830" fill="#A8D8F0" font-size="13" font-weight="500" letter-spacing="0.9">ARCHITECTURE &amp; PATTERNS</text>
+<rect x="56.5" y="844.5" width="57" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="85" y="863" text-anchor="middle" fill="#F4ECEC" font-size="12.5">RBAC</text>
+<rect x="120.5" y="844.5" width="119" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="180" y="863" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Protected Routes</text>
+<rect x="246.5" y="844.5" width="104" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="298.5" y="863" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Feature Based</text>
+<rect x="357.5" y="844.5" width="66" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="390.5" y="863" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Adapter</text>
+<rect x="56.5" y="879.5" width="82" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="97.5" y="898" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Repository</text>
+<rect x="145.5" y="879.5" width="143" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="217" y="898" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Dependency Injection</text>
+<rect x="295.5" y="879.5" width="75" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="333" y="898" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Singleton</text>
+<rect x="56.5" y="914.5" width="104" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="108.5" y="933" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Custom Hooks</text>
+<text x="524" y="830" fill="#A8D8F0" font-size="13" font-weight="500" letter-spacing="0.9">TEST</text>
+<rect x="524.5" y="844.5" width="54" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="551.5" y="863" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Vitest</text>
+<rect x="585.5" y="844.5" width="80" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="625.5" y="863" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Playwright</text>
+<text x="56" y="990" fill="#A8D8F0" font-size="13" font-weight="500" letter-spacing="0.9">ARAÇLAR</text>
+<rect x="56.5" y="1004.5" width="38" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="75.5" y="1023" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Git</text>
+<rect x="101.5" y="1004.5" width="61" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="132" y="1023" text-anchor="middle" fill="#F4ECEC" font-size="12.5">GitHub</text>
+<rect x="169.5" y="1004.5" width="50" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="194.5" y="1023" text-anchor="middle" fill="#F4ECEC" font-size="12.5">JIRA</text>
+<rect x="226.5" y="1004.5" width="53" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="253" y="1023" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Axios</text>
+<rect x="286.5" y="1004.5" width="96" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="334.5" y="1023" text-anchor="middle" fill="#F4ECEC" font-size="12.5">React Router</text>
+<rect x="389.5" y="1004.5" width="77" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="428" y="1023" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Socket.IO</text>
+<rect x="56.5" y="1039.5" width="62" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="87.5" y="1058" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Claude</text>
+<text x="524" y="990" fill="#A8D8F0" font-size="13" font-weight="500" letter-spacing="0.9">DİĞER</text>
+<rect x="524.5" y="1004.5" width="85" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="567" y="1023" text-anchor="middle" fill="#F4ECEC" font-size="12.5">SSR / CSR</text>
+<rect x="616.5" y="1004.5" width="97" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="665" y="1023" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Lazy Loading</text>
+<rect x="720.5" y="1004.5" width="103" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="772" y="1023" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Atomic Design</text>
+<rect x="524.5" y="1039.5" width="130" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="589.5" y="1058" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Responsive Design</text>
+<rect x="661.5" y="1039.5" width="94" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="708.5" y="1058" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Infinite Scroll</text>
+<rect x="762.5" y="1039.5" width="46" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="785.5" y="1058" text-anchor="middle" fill="#F4ECEC" font-size="12.5">i18n</text>
+<rect x="815.5" y="1039.5" width="112" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="871.5" y="1058" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Core Web Vitals</text>
+<rect x="524.5" y="1074.5" width="92" height="28" rx="6" fill="#FFFFFF" fill-opacity="0.03" stroke="#F4ECEC" stroke-opacity="0.42"/>
+<text x="570.5" y="1093" text-anchor="middle" fill="#F4ECEC" font-size="12.5">Açık Kaynak</text>
+</g>
+</svg>
